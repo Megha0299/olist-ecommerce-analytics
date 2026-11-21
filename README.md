@@ -19,7 +19,7 @@ An end-to-end analysis of the Olist Brazilian e-commerce dataset (~100K orders).
 - **Findings:** 93.21% of orders arrive on time or early. Northeast states have the highest late rates, led by AL (21.5%), MA (17.5%) and SE (15.4%), more than double the national rate. Only states with 300+ orders are shown.
 
 ### 3. Customer Satisfaction & Reviews
-![Customer Satisfaction & Reviews](screenshots/Customer%20Satisfaction%20&%20Reviews.png)
+![Customer Satisfaction & Reviews](screenshots/Customer%20Satisfaction.png)
 - **Key metrics:** 4.16 average review score, 58.8% 5-star reviews, 9.7% 1-star reviews.
 - **Findings:** Late delivery goes with much lower reviews. On-time orders average 4.29 stars (6.6% 1-star). Orders 1–3 days late average 3.29 (25.1% 1-star), 4–7 days late 2.10 (58.6%), and 8+ days late 1.70 (69.8% 1-star).
 
